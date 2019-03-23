@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 
 title: Ampyard Private Limited
-description:  Autonomy, Mastery and Purpose
+description:  
+google_analytics: UA-136760820-1
+show_downloads: false
